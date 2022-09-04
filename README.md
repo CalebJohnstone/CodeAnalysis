@@ -1,4 +1,4 @@
-# AVA
-Analysis, Visualization and Automation of code
+# CodeAnalysis
+Analysis and Automation of code
 
-A tool for performing static code analysis for automated code review, visualization of connections between components and automation of implementation by generating code.
+A tool for performing static code analysis for automated code review and automation of implementation by generating code.

@@ -28,6 +28,3 @@ module Parsing
     end
   end
 end
-
-#process_file('parsing/file.rb')
-
