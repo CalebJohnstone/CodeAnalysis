@@ -30,3 +30,5 @@
 
 # Ignore files used to test checks
 /lib/files/*
+
+.idea/
